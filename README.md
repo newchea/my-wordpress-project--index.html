@@ -1,7 +1,7 @@
 # Chea’s Mind – WordPress Theme 🧠
 
 Welcome to my first GitHub-hosted WordPress theme project!  
-This theme is designed for my personal blog: **Inside Chea’s Mind**, focused on creativity, ideas, music, and self-expression.
+This theme is designed for my personal blog: **Inside Chea’s Mind**, focused on creativity, music, tech, and self-expression.
 
 ---
 
@@ -20,18 +20,18 @@ This is my first WordPress project on GitHub. I'm using it to learn:
 
 - How to build custom WordPress themes  
 - How to use Git and GitHub for version control  
-- How to work with Codespaces as a web dev environment  
+- How to work with Codespaces as a development environment  
 
 ---
 
 ## 🚀 How to Use
 
 1. **Download or clone** the repo  
-2. **Zip the theme folder** (or download ZIP from GitHub)  
-3. In your WordPress dashboard:  
-   - Go to `Appearance > Themes > Add New`  
-   - Click **Upload Theme** and choose the ZIP file  
-4. **Activate** and customize your new theme!
+2. **Zip the theme folder** (or download ZIP directly from GitHub)  
+3. In your WordPress dashboard:
+   - Go to **Appearance > Themes > Add New**
+   - Click **Upload Theme** and choose the ZIP file
+4. **Activate** and start customizing your new theme!
 
 ---
 
@@ -49,9 +49,9 @@ This is my first WordPress project on GitHub. I'm using it to learn:
 **Chea**  
 Blogger & Beginner Developer  
 📍 Based in UAE  
-✍️ Project: [Inside Chea’s Mind](#)  
+✍️ Project: *Inside Chea’s Mind*  
 📧 Contact: your.email@example.com *(replace with your real contact)*
 
 ---
 
-> 🌱 *“Every line of code is a step forward.”*n
+> 🌱 *"Every line of code is a step forward."*
