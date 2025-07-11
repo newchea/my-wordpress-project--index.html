@@ -59,4 +59,4 @@ This project is licensed under the MIT License. Feel free to use or remix with c
 
 ## 💬 Feedback & Contributions
 
-Got suggestions or want to connect? Open an issue or send a message through GitHub!
+Got suggestions or want to connect? Feel free to open an issue or send me a message on GitHub!
