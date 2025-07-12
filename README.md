@@ -1,1 +1,1 @@
-git commit -m "🎉 Initial commit for Inside Chea World project"
+git commit -m "🎉 Initial commit for Inside Chea World project" -m "Initialized Git repository and added project structure.\n\n- Set up base files (HTML, CSS, etc.)\n- Created folder layout for content and assets\n- Ready to begin development and publishing"
