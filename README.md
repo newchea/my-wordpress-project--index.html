@@ -1,6 +1,6 @@
 # 🌱 Road to Coding
 
-Hi, I’m **Ruby Jack** — welcome to my personal coding journey!
+Hi, I’m **Macintosh Chea** — welcome to my personal coding journey!
 
 This project is the beginning of something new. I’m learning how to build websites using **HTML** and **CSS**, and sharing my progress step by step.
 
@@ -22,4 +22,4 @@ Check it out here:
 
 💡 *"Learning one line of code at a time. The road is long, but I’ve already started."*
 
-**© Ruby Jack. All rights reserved.**
+**© Macintosh Chea. All rights reserved.**
