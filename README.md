@@ -7,7 +7,7 @@
 <!-- New Contact Section -->
 <section id="contact">
   <h2>Contact Me</h2>
-  <Email: #macintoshchea9@gmail.com</p>
+  <pEmail: #macintoshchea9@gmail.com</p>
 </section>
 <html lang="en">
 <head>
