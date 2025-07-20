@@ -11,7 +11,7 @@ This project is the beginning of something new. I’m learning how to build webs
 
 ## 🌐 Live Website  
 Check it out here:  
-👉 [https://newchea.github.io/road-to-coding](https://newchea.github.io/road-to-coding)
+👉 [https://newchea.github.io/road-to-coding](https://my-wordpress-project--index.html)
 
 ## 🛠 Goals
 - Build a complete personal website
