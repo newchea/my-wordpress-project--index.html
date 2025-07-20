@@ -8,4 +8,4 @@
 <section id="contact">
   <h2>Contact Me</h2>
   <pEmail:
-    </p macintoshchea9@gmail.com</p>
+    </p>macintoshchea9@gmail.com</p>
