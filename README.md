@@ -7,37 +7,5 @@
 <!-- New Contact Section -->
 <section id="contact">
   <h2>Contact Me</h2>
-  <pEmail: #macintoshchea9@gmail.com</p>
-</section>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Inside Chea World</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f7f7f7;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #553c9a;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    section {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h2 {
-      color: #553c9a;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #eee;
-      font-size: 0.9rem;09
+  <pEmail:
+    </p macintoshchea9@gmail.com</p>
